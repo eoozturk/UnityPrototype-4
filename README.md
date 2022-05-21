@@ -3,7 +3,7 @@
 * Menu Screen
 * Data Persistence between scenes
 * Data Persistence between session
-* I/O operation
+* File Operation
  
 Unity Play: https://play.unity.com/mg/other/brickmaster
 
