@@ -1,4 +1,4 @@
-# Unity Protoype: Brick Master
+# Unity Prototype: Brick Master
 
 * Menu Screen
 * Data Persistence between scenes
